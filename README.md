@@ -4,3 +4,5 @@ Zapret installer for Windows 10/11 with strategy iteration and full implementati
 • Diagnostics
 • IPset Change
 • Game Filter Switcher
+
+U need UnRAR.exe for unpacking .rar archive from flowseal repository
